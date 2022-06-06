@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Basil Al-Farra</h1>
-<h3 align="center">A Passionate WordPress & Frontend Developer from Gaza</h3><br>
+<h3 align="center">A Passionate Frontend Developer from Gaza</h3><br>
 
 <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
