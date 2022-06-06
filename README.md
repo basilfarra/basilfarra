@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Note App**
 
-- 💬 Ask me about **Front end ,WordPress**
+- 💬 Ask me about **PHP ,WordPress**
 
 - 📫 How to reach me **basilsfarra@gmail.com**
 
