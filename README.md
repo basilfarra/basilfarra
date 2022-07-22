@@ -8,6 +8,7 @@
 <p align="center"> <a href="https://twitter.com/bazelzz" target="blank"><img src="https://img.shields.io/twitter/follow/bazelzz?logo=twitter&style=for-the-badge" alt="bazelzz" /></a> </p>
 
 # 💫 About Me :
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 - 🔭 I’m currently working on **News Website - PHP**
 - 🌱 I’m currently learning more about BlockChain and Python.
@@ -16,6 +17,8 @@
 - 💬 Ask me about **Frontend ,WordPress Development**
 - 📫 How to reach me **basilsfarra@gmail.com**
 - 📄 Know about my experiences [Portfolio](https://dev-basil-farra-portfolio.pantheonsite.io/).
+
+<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basilfarra )
