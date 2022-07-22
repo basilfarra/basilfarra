@@ -52,7 +52,9 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basilfarra&theme=vue"/>
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basilfarra&theme=vue" />
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=basilfarra&layout=compact&langs_count=7&theme=vue"/>
+
 </p>
 
 ## 📟 GitHub Stats
@@ -66,4 +68,5 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
 
