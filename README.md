@@ -2,7 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Basil Al-Farra </h1>
+	 <h3 align="center">A passionate Software Developer from Gaza</h3>
 
+<br>
 <p align="center"> <a href="https://twitter.com/bazelzz" target="blank"><img src="https://img.shields.io/twitter/follow/bazelzz?logo=twitter&style=for-the-badge" alt="bazelzz" /></a> </p>
 
 # 💫 About Me :
