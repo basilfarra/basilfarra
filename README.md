@@ -26,10 +26,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/bazelzz?logo=Twitter&style=for-the-badge)](https://twitter.com/bazelzz)
 
 ## 💻 Tech Stack
-![HTML](https://img.shields.io/badge/Html-%231B72BE.svg?style=for-the-badge&logo=Html&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%230095D5.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>![Laravel](https://img.shields.io/badge/laravel-%230095D5.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-%231B72BE.svg?style=for-the-badge&logo=CSS&logoColor=white) 
+<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
