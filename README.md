@@ -27,7 +27,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basilfarra )
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/c/basilfarra ) 
-[![Twitter](https://img.shields.io/twitter/follow/bazelzz?logo=Twitter&style=for-the-badge)](https://twitter.com/bazelzz)
+[![Twitter](https://img.shields.io/twitter/follow/basilsalddin?logo=Twitter&style=for-the-badge)](https://twitter.com/basilsalddin)
 
 ## 💻 Tech Stack
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>![Laravel](https://img.shields.io/badge/laravel-%230095D5.svg?style=for-the-badge&logo=laravel&logoColor=white)
