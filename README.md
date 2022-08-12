@@ -25,7 +25,7 @@
 <br>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farra )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ )
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/c/basilfarra ) 
 [![Twitter](https://img.shields.io/twitter/follow/basilsalddin?logo=Twitter&style=for-the-badge)](https://twitter.com/basilsalddin)
 
