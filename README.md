@@ -20,12 +20,12 @@
 - ⚡ Fun fact: I spend almost 5 hours listening to podcast every day.
 - 💬 Ask me about **Frontend ,WordPress Development**
 - 📫 How to reach me **basilsfarra@gmail.com**
-- 📄 Know about my experiences [Portfolio](https://dev-basil-farra-portfolio.pantheonsite.io/).
+- 📄 Know about my experiences [Portfolio](https://).
 
 <br>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basilfarra )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farra )
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/c/basilfarra ) 
 [![Twitter](https://img.shields.io/twitter/follow/basilsalddin?logo=Twitter&style=for-the-badge)](https://twitter.com/basilsalddin)
 
