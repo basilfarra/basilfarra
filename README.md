@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **News Website - PHP**
 - 🌱 I’m currently learning more about BlockChain and Python.
 - 🤝 I’m looking for help with Python documentation
-- ⚡ Fun fact: I spend almost 5 hours listening to podcast every day.
+- ⚡ Fun fact: I spend almost many hours listening to podcast every day.
 - 💬 Ask me about **Frontend ,WordPress Development**
 - 📫 How to reach me **basilsfarra@gmail.com**
 - 📄 Know about my experiences [Portfolio](https://).
