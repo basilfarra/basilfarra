@@ -17,10 +17,10 @@
 # 💫 About Me :
   <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="35%"/>
 
-- 🔭 I’m currently working on **News Website - PHP**
+- 🔭 I’m currently working on **Store Website - LARAVEL**
 - 🌱 I’m currently learning more about BlockChain and Python.
 - 🤝 I’m looking for help with Python documentation
-- ⚡ Fun fact: I spend almost many hours listening to podcast every day.
+- ⚡ Fun fact: I spend lots of hours listening to podcasts every day.
 - 💬 Ask me about **Frontend ,WordPress Development**
 - 📫 How to reach me **basilsfarra@gmail.com**
 - 📄 Know about my experiences [Portfolio](https://dev-basil-farra-portfolio.pantheonsite.io/).
