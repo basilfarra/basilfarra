@@ -19,9 +19,9 @@
 
 - 🔭 I’m currently working on **Store Website - LARAVEL**
 - 🌱 I’m currently learning more about BlockChain and Python.
-- 🤝 I’m looking for help with Python documentation
+- 🤝 I’m looking for help with LARAVEL documentation
 - ⚡ Fun fact: I spend lots of hours listening to podcasts every day.
-- 💬 Ask me about **Frontend ,WordPress Development**
+- 💬 Ask me about **Frontend ,WordPress Development and UIUX Design**
 - 📫 How to reach me **basilsfarra@gmail.com**
 - 📄 Know about my experiences [Portfolio](https://dev-basil-farra-portfolio.pantheonsite.io/).
 
