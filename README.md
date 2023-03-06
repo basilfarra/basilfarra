@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning more about BlockChain and Python.
 - 🤝 I’m looking for help with LARAVEL documentation
 - ⚡ Fun fact: I spend lots of hours listening to podcasts every day.
-- 💬 Ask me about **Frontend ,WordPress Development and UIUX Design**
+- 💬 Ask me about **Frontend ,WordPress Development and UI/UX Design**
 - 📫 How to reach me **basilsfarra@gmail.com**
 - 📄 Know about my experiences [Portfolio](https://dev-basil-farra-portfolio.pantheonsite.io/).
 
