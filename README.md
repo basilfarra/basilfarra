@@ -52,11 +52,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=basilfarra&theme=minimal"/>
-</p>
-
 ## 💳 Github Profile Summary Card
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=basilfarra&theme=vue" />
