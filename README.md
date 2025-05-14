@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **Store Website - LARAVEL**
 - 🌱 I have a interest in BlockChain and Quality Assurance.
 - ⚡ Fun fact: I spend lots of hours listening to podcasts every day.
-- 💬 Ask me about **Frontend ,WordPress ,UI/UX Design**
+- 💬 Ask me about **Project Mangment ,QA ,UI/UX Design**
 - 📫 How to reach me **basilsfarra@gmail.com**
 - 🤝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is [My Portfolio](https://dev-basil-farra-portfolio.pantheonsite.io/).
 
