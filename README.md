@@ -14,13 +14,13 @@
         <img src="https://user-images.githubusercontent.com/40392957/180603395-c377b7a1-b772-4e24-8d4b-50b3b91f000a.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="170">
     </div>
 
-# 👨🏻‍💻 Who am I ?
+# 👨🏻‍💻 Who am I?
   <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="35%"/>
 
-- 🔭 I’m currently working on **Store Website - LARAVEL**
+- 🔭 I’m currently working on **Scholar-Forge - Python**
 - 🌱 I have a interest in BlockChain and Quality Assurance.
 - ⚡ Fun fact: I spend lots of hours listening to podcasts every day.
-- 💬 Ask me about **Project Mangment ,QA ,UI/UX Design**
+- 💬 Ask me about **AI/LLM/Agentic AI & Academic Mentorship**
 - 📫 How to reach me **basilsfarra@gmail.com**
 - 🤝 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is [My Portfolio](https://dev-basil-farra-portfolio.pantheonsite.io/).
 
