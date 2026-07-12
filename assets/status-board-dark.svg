@@ -1,0 +1,47 @@
+<svg viewBox="0 0 900 320" width="900" height="320" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid-sd" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#6E7681" stroke-width="0.5" opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="320" fill="#0D1117"/>
+  <rect width="900" height="320" fill="url(#grid-sd)"/>
+
+  <g stroke="#6E7681" stroke-width="1.4" fill="none">
+    <path d="M24,54 L24,24 L54,24"/>
+    <path d="M846,24 L876,24 L876,54"/>
+    <path d="M24,266 L24,296 L54,296"/>
+    <path d="M876,266 L876,296 L846,296"/>
+  </g>
+
+  <text x="60" y="28" font-size="11" letter-spacing="2" fill="#6E7681">BUILD STATUS · SCHOLARFORGE</text>
+  <text x="852" y="28" text-anchor="end" font-size="11" letter-spacing="2" fill="#2DE1C7">02/10 AGENTS SHIPPED</text>
+
+  <line x1="60" y1="55" x2="60" y2="275" stroke="#6E7681" stroke-width="1.2"/>
+
+  <!-- row 1 -->
+  <circle cx="60" cy="78" r="5.5" fill="#2DE1C7"/>
+  <text x="86" y="82" font-size="13" letter-spacing="0.3" fill="#E6EDF3">architecture · schemas · agent base class</text>
+  <text x="852" y="82" text-anchor="end" font-size="11" letter-spacing="1" fill="#2DE1C7">[ DONE ]</text>
+
+  <!-- row 2 -->
+  <circle cx="60" cy="122" r="5.5" fill="#2DE1C7"/>
+  <text x="86" y="126" font-size="13" letter-spacing="0.3" fill="#E6EDF3">agent 01 — profile ingestion</text>
+  <text x="852" y="126" text-anchor="end" font-size="11" letter-spacing="1" fill="#2DE1C7">[ DONE ]</text>
+
+  <!-- row 3 -->
+  <circle cx="60" cy="166" r="5.5" fill="#2DE1C7"/>
+  <text x="86" y="170" font-size="13" letter-spacing="0.3" fill="#E6EDF3">agent 02 — scholarship analysis</text>
+  <text x="852" y="170" text-anchor="end" font-size="11" letter-spacing="1" fill="#2DE1C7">[ DONE ]</text>
+
+  <!-- row 4 -->
+  <circle cx="60" cy="210" r="5.5" fill="#0D1117" stroke="#2DE1C7" stroke-width="2"/>
+  <text x="86" y="214" font-size="13" letter-spacing="0.3" fill="#E6EDF3">agent 03 — narrative selection</text>
+  <text x="852" y="214" text-anchor="end" font-size="11" letter-spacing="1" fill="#2DE1C7">[ IN PROGRESS ]</text>
+
+  <!-- row 5 -->
+  <circle cx="60" cy="254" r="5.5" fill="#0D1117" stroke="#6E7681" stroke-width="1.2"/>
+  <text x="86" y="258" font-size="13" letter-spacing="0.3" fill="#6E7681">agents 04–10 — generation · validation · cost routing</text>
+  <text x="852" y="258" text-anchor="end" font-size="11" letter-spacing="1" fill="#6E7681">[ PLANNED ]</text>
+</svg>
