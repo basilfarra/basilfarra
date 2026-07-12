@@ -1,0 +1,108 @@
+<svg viewBox="0 0 900 530" width="900" height="530" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid-l" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8C959F" stroke-width="0.5" opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="530" fill="#FFFFFF"/>
+  <rect width="900" height="530" fill="url(#grid-l)"/>
+
+  <g stroke="#8C959F" stroke-width="1.4" fill="none">
+    <path d="M24,54 L24,24 L54,24"/>
+    <path d="M846,24 L876,24 L876,54"/>
+    <path d="M24,476 L24,506 L54,506"/>
+    <path d="M876,476 L876,506 L846,506"/>
+  </g>
+
+  <!-- ============ SECTION A — identity ============ -->
+  <text x="852" y="42" text-anchor="end" font-size="11" letter-spacing="2" fill="#656D76">STATUS · ACTIVE_DEVELOPMENT</text>
+  <text x="852" y="60" text-anchor="end" font-size="11" letter-spacing="2" fill="#656D76">SCHOLARFORGE · 02/10 AGENTS</text>
+
+  <text x="60" y="138" font-size="34" font-weight="700" letter-spacing="5" textLength="350" lengthAdjust="spacingAndGlyphs" fill="#1F2328">BASIL AL-FARRA</text>
+  <rect x="420" y="112" width="12" height="28" fill="#12B8A3"/>
+
+  <text x="60" y="184" font-size="15" letter-spacing="1" fill="#1F2328" opacity="0.9">ai automation engineer</text>
+  <text x="60" y="206" font-size="13" letter-spacing="1" fill="#656D76">khan younis, gaza</text>
+
+  <path d="M60,224 L69,228.5 L60,233 Z" fill="#12B8A3"/>
+  <text x="76" y="232" font-size="11" letter-spacing="0.5" fill="#656D76">10-agent llm pipeline for academic applications</text>
+
+  <line x1="60" y1="250" x2="840" y2="250" stroke="#8C959F" stroke-width="0.75" opacity="0.5"/>
+
+  <!-- ============ SECTION B — stack (offset +260) ============ -->
+  <g transform="translate(0,260)">
+    <text x="40" y="28" font-size="11" letter-spacing="2" fill="#656D76">LLM ORCHESTRATION LAYER</text>
+
+    <line x1="40" y1="90" x2="864" y2="90" stroke="#12B8A3" stroke-width="1.5"/>
+    <path d="M860,84 L872,90 L860,96 Z" fill="#12B8A3"/>
+
+    <g fill="#12B8A3">
+      <circle cx="154" cy="90" r="2"/>
+      <circle cx="282.5" cy="90" r="2"/>
+      <circle cx="411" cy="90" r="2"/>
+      <circle cx="539" cy="90" r="2"/>
+      <circle cx="667.5" cy="90" r="2"/>
+      <circle cx="796" cy="90" r="2"/>
+    </g>
+
+    <g stroke="#8C959F" stroke-width="1.2" fill="#FFFFFF">
+      <rect x="47" y="66" width="86" height="48" rx="2"/>
+      <rect x="175" y="66" width="86" height="48" rx="2"/>
+      <rect x="304" y="66" width="86" height="48" rx="2"/>
+      <rect x="432" y="66" width="86" height="48" rx="2"/>
+      <rect x="560" y="66" width="86" height="48" rx="2"/>
+      <rect x="689" y="66" width="86" height="48" rx="2"/>
+      <rect x="817" y="66" width="86" height="48" rx="2"/>
+    </g>
+
+    <g text-anchor="middle" fill="#656D76" font-size="9" letter-spacing="1">
+      <text x="90" y="80">01</text>
+      <text x="218" y="80">02</text>
+      <text x="347" y="80">03</text>
+      <text x="475" y="80">04</text>
+      <text x="603" y="80">05</text>
+      <text x="732" y="80">06</text>
+      <text x="860" y="80">07</text>
+    </g>
+
+    <g text-anchor="middle" fill="#1F2328" font-size="11.5" letter-spacing="0.5">
+      <text x="90" y="100">PYTHON</text>
+      <text x="218" y="100">FASTAPI</text>
+      <text x="347" y="100">PYDANTIC</text>
+      <text x="475" y="100">ANTHROPIC</text>
+      <text x="603" y="100">OPENAI</text>
+      <text x="732" y="100">GEMINI</text>
+      <text x="860" y="100">CHROMADB</text>
+    </g>
+
+    <text x="40" y="140" font-size="11" letter-spacing="0.5" fill="#656D76">provider-agnostic routing · schema-enforced agent contracts</text>
+  </g>
+
+  <line x1="60" y1="430" x2="840" y2="430" stroke="#8C959F" stroke-width="0.75" opacity="0.5"/>
+
+  <!-- ============ SECTION C — connect (offset +440) ============ -->
+  <g transform="translate(0,440)">
+    <g stroke="#8C959F" stroke-width="1" opacity="0.6">
+      <line x1="320" y1="15" x2="320" y2="55"/>
+      <line x1="560" y1="15" x2="560" y2="55"/>
+    </g>
+
+    <rect x="40" y="23" width="24" height="24" rx="3" fill="none" stroke="#1F2328" stroke-width="1.5"/>
+    <text x="52" y="40" text-anchor="middle" font-size="11" fill="#1F2328">in</text>
+    <text x="74" y="39" font-size="12" letter-spacing="0.3" fill="#1F2328">linkedin.com/in/basilfarra</text>
+
+    <rect x="340" y="25" width="24" height="18" rx="2" fill="none" stroke="#1F2328" stroke-width="1.5"/>
+    <path d="M340,25 L352,36 L364,25" fill="none" stroke="#1F2328" stroke-width="1.5"/>
+    <text x="374" y="39" font-size="12" letter-spacing="0.3" fill="#1F2328">basilsfarra@gmail.com</text>
+
+    <g stroke="#1F2328" stroke-width="1.5" fill="none">
+      <circle cx="588" cy="27" r="3"/>
+      <circle cx="588" cy="45" r="3"/>
+      <circle cx="604" cy="36" r="3"/>
+      <line x1="588" y1="30" x2="588" y2="42"/>
+      <path d="M588,36 C588,36 594,36 601,36"/>
+    </g>
+    <text x="614" y="39" font-size="11" letter-spacing="0.2" fill="#1F2328">github.com/basilfarra/Scholar-Forge</text>
+  </g>
+</svg>
